@@ -18,7 +18,13 @@
         "laravel/tinker": "^1.0",
         "spatie/laravel-html": "^2.4",
         "spatie/laravel-permission": "^2.5",
-        "webpatser/laravel-uuid": "^3.0"
+        "webpatser/laravel-uuid": "^3.0",
+        "yajra/laravel-datatables-buttons": "^3.0",
+        "yajra/laravel-datatables-oracle": "~8.0",
+        "infyomlabs/adminlte-templates": "5.6.x-dev",
+        "infyomlabs/laravel-generator": "5.6.x-dev",
+        "doctrine/dbal": "~2.3",
+        "guzzlehttp/guzzle": "^6.3"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.0",
@@ -29,7 +35,8 @@
         "fzaninotto/faker": "^1.4",
         "mockery/mockery": "^1.0",
         "nunomaduro/collision": "^2.0",
-        "phpunit/phpunit": "^7.0"
+        "phpunit/phpunit": "^7.0",
+        "squizlabs/php_codesniffer": "3.*"
     },
     "autoload": {
         "classmap": [
